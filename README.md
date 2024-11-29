@@ -2,6 +2,8 @@
 
 Este projeto tem intuito de contribuir para o planejamento de políticas públicas estaduais, fundamentado nos dados disponíveis na base nacional do Sistema de Vigilância Alimentar e Nutricional (Sisvan). 
 
+![image](https://github.com/user-attachments/assets/10ce8fc7-b49e-4fd1-b21c-67d81eeb3173)
+
 Apresentação Youtube: 
 [![Apresentação no Youtube:](https://user-images.githubusercontent.com/47686437/168548113-b3cd4206-3281-445b-b7c6-bc0a3251293d.png)](https://www.youtube.com/watch?v=eXNYe2r85QM)
 
