@@ -7,6 +7,8 @@ Apresentação Youtube:
 
 link: https://www.youtube.com/watch?v=eXNYe2r85QM
 
+
+
 ## Objetivo
 
 O objetivo do projeto é elaborar um estudo de Análise Exploratória de Dados sobre o contexto do estado nutricional da população brasileira, em específico das crianças com idades compreendidas entre 0 e 6 anos.
